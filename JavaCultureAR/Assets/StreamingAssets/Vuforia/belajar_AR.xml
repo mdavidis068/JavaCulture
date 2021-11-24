@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Rumah_Jabar" size="100.000000 64.444443" />
+    <ImageTarget name="Senjata_Jabar" size="100.000000 100.000000" />
+    <ImageTarget name="Senjata_Jatim" size="100.000000 75.000000" />
+    <ImageTarget name="Baju_Jatim" size="1.000000 0.665455" />
+    <ImageTarget name="Baju_Jateng" size="1.000000 1.000000" />
+    <ImageTarget name="Baju_Jabar" size="1.000000 1.000000" />
+    <ImageTarget name="Senjata_Jateng" size="1.000000 1.000000" />
+    <ImageTarget name="Rumah_Jatim" size="1.000000 0.664075" />
+    <ImageTarget name="Rumah_Jateng" size="1.000000 0.525000" />
+  </Tracking>
+</QCARConfig>
